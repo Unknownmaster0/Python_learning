@@ -8,6 +8,10 @@ print("what about\vothers") # \v -> vertical tab.
 # printing the multiple line of comment in python
 # use ''' -> triple single quote.
 # use """ -> triple double quote.
+# use sep="~" -> this will merge all the string in print statement with '~' this sign.
+# use end=107 -> this will add this number to next letter.
+
+print("sagar "," and ","singh",sep="~",)
 
 """ 
 Hii this is sagar singh. I am writing the multi-line comment in python.+
